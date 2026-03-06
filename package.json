@@ -1,0 +1,26 @@
+{
+  "name": "basictypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EixaT/BasicTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EixaT/BasicTypeScript/issues"
+  },
+  "homepage": "https://github.com/EixaT/BasicTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
